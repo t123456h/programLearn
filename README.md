@@ -2,8 +2,10 @@
 
 2019-10-03
 
-windows linux 的区别
-linux centosv  ubuntu
+windows 与 linux 的区别
+
+linux  centos7   ubuntu
+
 虚拟机 VMware Workstation
 
 
